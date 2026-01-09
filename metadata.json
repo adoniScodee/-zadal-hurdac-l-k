@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Öz Adalı Hurdacılık",
+  "description": "Aydın Kuşadası'nda profesyonel hurdacılık hizmetleri sunan Öz Adalı Hurdacılık resmi web sitesi. Güvenilir, hızlı ve değerinde hurda alımı.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
